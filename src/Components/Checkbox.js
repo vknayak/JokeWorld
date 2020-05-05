@@ -14,7 +14,6 @@ export class Checkboxx extends Component {
         this.state = {
             joketypes: [],
             check: false.toString(),
-            click:false
         }
     }
 

@@ -1,0 +1,8 @@
+.shadow {
+    box-shadow: 5px 5px 5px black;
+    /* text-shadow: 5px 5px 20px black; */
+    transition: 1s;
+}
+.shadow:hover{
+    transform: scale(1.2);
+}
